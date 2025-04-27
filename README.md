@@ -18,7 +18,7 @@
 
 ## 🚀 What I Do
 
-- Build **deep-tech AI systems**: from research prototypes to production deployments  
+- Build **real-world AI systems**: from research prototypes to production deployments  
 - Lead **AI and imaging projects** across industrial applications and academic research  
 - Raise **funding for R&D**: secured €450k+ to accelerate innovation  
 - Deliver multiple **hardware and digital solutions** to market
