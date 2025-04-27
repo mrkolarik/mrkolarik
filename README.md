@@ -18,9 +18,10 @@
 
 ## 🚀 What I Do
 
-- Build **deep-tech AI systems**: from research prototypes to production-ready products  
-- Lead **3D imaging** & **embedded AI** projects in medical, industrial & cloud environments  
-- Drive **ROI**: raised €400 k+ in R&D funding, shipped 3+ products, scaled to 100 k+ deployments  
+- Build **deep-tech AI systems**: from research prototypes to production deployments  
+- Lead **AI and imaging projects** across industrial applications and academic research  
+- Raise **funding for R&D**: secured €400k+ to accelerate innovation  
+- Deliver multiple **hardware and digital solutions** to market
 
 ---
 
